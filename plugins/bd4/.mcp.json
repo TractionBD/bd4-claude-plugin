@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "bd4": { "type": "http", "url": "https://mcp.bd4pros.com/mcp" }
+  }
+}
