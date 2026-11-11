@@ -11,7 +11,7 @@
       "name": "bd4",
       "source": "./plugins/bd4",
       "description": "BD4 for Claude: your daily five, outreach briefs, drafts and relationship history.",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": {
         "name": "BD4"
       },
