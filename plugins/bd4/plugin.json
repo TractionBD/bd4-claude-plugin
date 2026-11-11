@@ -1,0 +1,46 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "bd4",
+  "version": "1.1.0",
+  "description": "BD4 for your AI assistant: your daily five, outreach briefs, drafts and relationship history.",
+  "author": {
+    "name": "BD4",
+    "email": "support@bd4pros.com",
+    "url": "https://www.bd4pros.com"
+  },
+  "homepage": "https://www.bd4pros.com",
+  "repository": "https://github.com/TractionBD/bd4-plugins",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "crm",
+    "relationships",
+    "business-development",
+    "outreach",
+    "email"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "BD4",
+        "shortDescription": "Work your BD4 relationships from chat",
+        "longDescription": "See who BD4 suggests you reach out to today, get an outreach brief, draft a message in your own voice, and log calls, meetings and notes. Requires a BD4 account.",
+        "developerName": "BD4",
+        "category": "Productivity",
+        "capabilities": [
+          "See who to reach out to today",
+          "Get outreach briefs",
+          "Draft messages in your voice",
+          "Log calls, meetings and notes"
+        ],
+        "websiteURL": "https://www.bd4pros.com",
+        "privacyPolicyURL": "https://www.bd4pros.com/privacy-policy",
+        "termsOfServiceURL": "https://www.bd4pros.com/terms-of-service",
+        "defaultPrompt": [
+          "Who should I reach out to today?",
+          "Get me an outreach brief for my next contact",
+          "Log a call I just had"
+        ]
+      }
+    }
+  }
+}

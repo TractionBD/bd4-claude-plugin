@@ -1,0 +1,18 @@
+{
+  "name": "bd4",
+  "owner": {
+    "name": "BD4",
+    "email": "support@bd4pros.com"
+  },
+  "metadata": {
+    "description": "BD4 for your AI assistant.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "bd4",
+      "source": "./plugins/bd4",
+      "description": "BD4 for your AI assistant: your daily five, outreach briefs, drafts and relationship history."
+    }
+  ]
+}

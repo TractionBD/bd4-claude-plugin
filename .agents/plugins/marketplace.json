@@ -1,0 +1,20 @@
+{
+  "name": "bd4",
+  "interface": {
+    "displayName": "BD4"
+  },
+  "plugins": [
+    {
+      "name": "bd4",
+      "source": {
+        "source": "local",
+        "path": "./plugins/bd4"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

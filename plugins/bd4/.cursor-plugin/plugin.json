@@ -1,0 +1,19 @@
+{
+  "name": "bd4",
+  "version": "1.1.0",
+  "description": "BD4 for your AI assistant: your daily five, outreach briefs, drafts and relationship history.",
+  "author": {
+    "name": "BD4",
+    "email": "support@bd4pros.com"
+  },
+  "homepage": "https://www.bd4pros.com",
+  "repository": "https://github.com/TractionBD/bd4-plugins",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "crm",
+    "relationships",
+    "business-development",
+    "outreach",
+    "email"
+  ]
+}

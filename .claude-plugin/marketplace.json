@@ -4,14 +4,14 @@
     "name": "BD4"
   },
   "metadata": {
-    "description": "BD4 for Claude: work your relationships from chat."
+    "description": "BD4 for your AI assistant: work your relationships from chat."
   },
   "plugins": [
     {
       "name": "bd4",
       "source": "./plugins/bd4",
-      "description": "BD4 for Claude: your daily five, outreach briefs, drafts and relationship history.",
-      "version": "1.0.3",
+      "description": "BD4 for your AI assistant: your daily five, outreach briefs, drafts and relationship history.",
+      "version": "1.1.0",
       "author": {
         "name": "BD4"
       },
