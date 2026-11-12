@@ -44,7 +44,9 @@ text instructions for your assistant, and one connector: the BD4 MCP server at
   email, asks before it changes a contact's tags, and confirms before it
   deletes a contact or a logged interaction.
 
-## Support
+## Links
 
-Questions or problems: support@bd4pros.com. Privacy policy:
-[bd4pros.com/privacy-policy](https://www.bd4pros.com/privacy-policy).
+- Privacy policy: https://www.bd4pros.com/privacy-policy
+- Terms of service: https://www.bd4pros.com/terms-of-service
+- Support: https://www.bd4pros.com/contact-us (or email support@bd4pros.com)
+- Documentation: https://github.com/TractionBD/bd4-plugins/blob/main/plugins/bd4/README.md

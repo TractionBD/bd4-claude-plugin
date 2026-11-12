@@ -1,6 +1,6 @@
 {
   "name": "bd4",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "BD4 for your AI assistant: your daily five, outreach briefs, drafts and relationship history.",
   "author": {
     "name": "BD4",
@@ -17,9 +17,5 @@
     "email"
   ],
   "repository": "https://github.com/TractionBD/bd4-plugins",
-  "displayName": "BD4",
-  "supportUrl": "https://www.bd4pros.com/contact-us",
-  "documentationUrl": "https://github.com/TractionBD/bd4-plugins/blob/main/plugins/bd4/README.md",
-  "termsOfServiceUrl": "https://www.bd4pros.com/terms-of-service",
-  "privacyPolicyUrl": "https://www.bd4pros.com/privacy-policy"
+  "displayName": "BD4"
 }
