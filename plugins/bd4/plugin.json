@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "bd4",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "BD4 for your AI assistant: your daily five, outreach briefs, drafts and relationship history.",
   "author": {
     "name": "BD4",
@@ -39,7 +39,10 @@
           "Who should I reach out to today?",
           "Get me an outreach brief for my next contact",
           "Log a call I just had"
-        ]
+        ],
+        "logo": "./assets/icon.png",
+        "composerIcon": "./assets/icon.png",
+        "brandColor": "#0ECAA4"
       }
     }
   }

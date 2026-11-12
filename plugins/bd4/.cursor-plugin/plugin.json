@@ -1,6 +1,6 @@
 {
   "name": "bd4",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "BD4 for your AI assistant: your daily five, outreach briefs, drafts and relationship history.",
   "author": {
     "name": "BD4",
@@ -15,5 +15,6 @@
     "business-development",
     "outreach",
     "email"
-  ]
+  ],
+  "logo": "assets/icon.png"
 }
